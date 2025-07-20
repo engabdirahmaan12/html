@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "vite",
+    "server": "node server/index.js",
+    "start": "npm run server",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+}
